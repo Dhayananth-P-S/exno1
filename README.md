@@ -1,3 +1,5 @@
+# Name:Dhayananth.P.S
+# Regno:212223040039
 # Exno:1
 Data Cleaning Process
 
